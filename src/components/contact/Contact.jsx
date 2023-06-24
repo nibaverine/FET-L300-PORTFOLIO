@@ -11,7 +11,7 @@ function Contact() {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_1veg46k', 'template_9qspleg', form.current, 'D1wFZEYmhmxk-Rimg')
+    emailjs.sendForm('service_h53j34k', 'template_w5n5bug', form.current, 'kCOY016yyyEV8WJSm')
    e.target.reset()
   };
   return (
